@@ -1,0 +1,5 @@
+#include
+
+void func() {
+	print;
+}
